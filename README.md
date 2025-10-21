@@ -56,7 +56,6 @@ Deep dive into customer behavior and demographics:
 - **Metrics:** Average order value, customer distribution
 
 ![Customer Insights](Screenshots/customer_insights.png)
-
 ---
 
 ### 3️⃣ **Product Performance**
