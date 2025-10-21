@@ -57,7 +57,7 @@ Deep dive into customer behavior and demographics:
 - **Table:** Top 10 customers by revenue
 - **Metrics:** Average order value, customer distribution
 
-![Customer Insights](Screenshots/customer_insights.png)
+!Screenshots/customer_insights.png
 
 
 ---
