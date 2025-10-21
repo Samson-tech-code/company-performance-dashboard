@@ -35,39 +35,35 @@ This Power BI dashboard provides executive-level insights into company performan
 
 ## Dashboard Pages
 
-### 1️⃣ **Executive Overview**
-High-level summary for leadership:
-- **KPI Cards:** Total Revenue, Total Profit, Profit Margin %, YoY Revenue Growth
-- **Line Chart:** Revenue by month
-- **Bar Chart:** Revenue by country
-- **Table:** Top 10 products by revenue
-- **Slicer:** Fiscal Year filter
-
+### 1️⃣ Executive Overview
+High-level summary for leadership:  
+- **KPI Cards:** Total Revenue, Total Profit, Profit Margin %, YoY Revenue Growth  
+- **Line Chart:** Revenue by month  
+- **Bar Chart:** Revenue by country  
+- **Table:** Top 10 products by revenue  
+- **Slicer:** Fiscal Year filter  
 
 ![Executive Overview](Screenshots/executive_overview.png)
-
-
 
 ---
 
 ### 2️⃣ **Customer Insights**
-Deep dive into customer behavior and demographics:
-- **Bar Chart:** Revenue by country
-- **Donut Chart:** Orders by business type
-- **Table:** Top 10 customers by revenue
-- **Metrics:** Average order value, customer distribution
+Deep dive into customer behavior and demographics:  
+- **Bar Chart:** Revenue by country  
+- **Donut Chart:** Orders by business type  
+- **Table:** Top 10 customers by revenue  
+- **Metrics:** Average order value, customer distribution  
 
-!Screenshots/customer_insights.png
-
+![Customer Insights](Screenshots/customer_insights.png)
 
 ---
 
-### 3️⃣ **Product Performance**
-Detailed product analysis with drill-down capabilities:
-- **Matrix:** Product hierarchy (Category → Subcategory → Product) with conditional formatting
-- **Line Chart:** Revenue trends by product category
-- **Filter Panel:** Year, Region, and Category slicers
-- **Conditional Formatting:** Profit margin % color-coded (red to green)
+### 3️⃣ Product Performance
+Detailed product analysis with drill-down capabilities:  
+- **Matrix:** Product hierarchy (Category → Subcategory → Product) with conditional formatting  
+- **Line Chart:** Revenue trends by product category  
+- **Filter Panel:** Year, Region, and Category slicers  
+- **Conditional Formatting:** Profit margin % color-coded (red to green)  
 
 ![Product Performance](Screenshots/product_performance.png)
 
