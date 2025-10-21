@@ -45,6 +45,7 @@ High-level summary for leadership:
 
 ![Executive Overview](Screenshots/executive_overview.png)
 
+
 ---
 
 ### 2️⃣ **Customer Insights**
