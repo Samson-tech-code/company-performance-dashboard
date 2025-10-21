@@ -43,7 +43,9 @@ High-level summary for leadership:
 - **Table:** Top 10 products by revenue
 - **Slicer:** Fiscal Year filter
 
+
 ![Executive Overview](Screenshots/executive_overview.png)
+
 
 
 ---
@@ -56,6 +58,8 @@ Deep dive into customer behavior and demographics:
 - **Metrics:** Average order value, customer distribution
 
 ![Customer Insights](Screenshots/customer_insights.png)
+
+
 ---
 
 ### 3️⃣ **Product Performance**
