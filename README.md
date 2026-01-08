@@ -2,6 +2,8 @@
 
 A professional Power BI dashboard delivering end-to-end analysis of company sales, customer, and product performance using the AdventureWorks dataset.
 This project demonstrates skills in data modelling, DAX, Power Query, and data storytelling for business intelligence
+This dashboard was designed to provide senior leadership with a single source of truth for monitoring revenue, profitability, and customer performance across regions and product categories.
+
 
 
 ![Executive Overview](Screenshots/executive_overview.png)
